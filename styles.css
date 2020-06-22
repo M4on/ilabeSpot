@@ -1,0 +1,57 @@
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+    width: 70%;
+    margin: auto;
+}
+
+.vertical-column{
+display: inline !important;
+width: 100%;
+}
+
+.img-card{
+margin: 0px auto;
+width: 100%;
+height: 150px;
+
+}
+.subheading{
+margin: 0px auto;
+}
+
+.info-btn{
+color: grey;
+background-color: transparent;
+width: 30%; 
+content-align: center; 
+margin: 0px auto;
+}
+
+.more-info{
+color: #f7fbfb;
+margin-top: 20px !important;
+background:url(.img/rice-with-sauce.jpg) !important;
+background-repeat: no-repeat;
+background-position: center;
+background-size: cover;
+}
+
+.more-info p{
+color: #f7fbfb;
+background: rgb(133,135,135, 0.5);
+padding: 5px;
+
+.new-column{
+color: black;
+background: green !important;
+font-weight: bolder;
+font-style: italic;
+text-shadow: -1px 2px 2px green;
+}
+
+
+.about-ilabespot{
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap') !important;
+font-family: 'Roboto', sans-serif;
+background: blue;
+}
